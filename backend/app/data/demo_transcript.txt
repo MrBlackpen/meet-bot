@@ -1,0 +1,19 @@
+John: Okay, let’s quickly go over the project status. I’ll share the updated architecture diagram with everyone by tomorrow evening.
+
+Priya: That would be great. Once you share it, I’ll review it and give feedback before Friday. Also, can someone create a Jira task for the payment gateway integration? We should assign it to the backend team.
+
+Arun: Sure, I’ll take care of that. I’ll create the Jira ticket today and set the priority as high. Also, we need to schedule a follow-up meeting next week to discuss the integration progress.
+
+John: Yes, let’s do that. Schedule the meeting sometime on Tuesday afternoon and include the frontend team as well.
+
+Priya: By the way, Arun, please remind me on Monday to send the compliance documents to the client. I don’t want to miss that.
+
+Arun: Noted. Also, John, you were supposed to connect with the DevOps team regarding the deployment issues. Can you do that by Thursday?
+
+John: Yes, I’ll message them today and try to resolve it by Thursday. If needed, we might need to plan a separate call with DevOps later this week.
+
+Priya: One more thing — after today’s meeting, please share the meeting notes in the group chat. And Arun, once the Jira task is created, notify everyone in Slack.
+
+Arun: Sure. Also, we should plan a demo session for the client next month. Let’s tentatively schedule it for the second week of next month.
+
+John: Agreed. I’ll coordinate with the client and confirm their availability. Once confirmed, we can lock the calendar invite.
