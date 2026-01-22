@@ -179,6 +179,3 @@ pytest backend/tests/
 3. Push to branch: `git push origin feature/your-feature`
 4. Create a Pull Request
 
-## Support
-
-For issues and questions, please create an issue in the repository or contact the team.
